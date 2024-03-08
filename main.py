@@ -3,15 +3,15 @@ print(x)
 y=4
 print(y)
 
-print("The sum of x and y is: ", x+y)
-e=7
-print(e)
-print("The sum of e and x is:  ", e+x)
+priooooooooooooooont("The suooooooooooooooom of x and y is: ", xoooooooooooooo+y)
+e=ooooooooooooooo7
+proooooooooooooooint(ooooooooooooooe)
+prooooooooooooooooint("Thooooooooooooooooe sum of e and x is:  ", eoooooooooooooooooo+x)
       
-h=2
-print(h)
-print("The sum of h and y is: ",  h+y)
+oooooooooooooooooooooh=2
+prioooooooooooooont(oooooooooooooooh)
+proooooooooooooooooooooooint("The sum ooooooooooooooooooooooooooooof h and y is: ",  h+y)
 r=8
-print(r)
-print("The sum of r and h is: ",  r+h)
+prooooooooooooooooooint(rooooooooooooooo)
+pooooooooooooooorint("The suoooooooooooooooooom of r and h is: ",  roooooooooooooooo+h)
 
